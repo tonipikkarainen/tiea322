@@ -1,0 +1,11 @@
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/obj/Debug/netcoreapp2.1/multicast_app.csprojAssemblyReference.cache
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/obj/Debug/netcoreapp2.1/multicast_app.csproj.CoreCompileInputs.cache
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/obj/Debug/netcoreapp2.1/multicast_app.AssemblyInfoInputs.cache
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/obj/Debug/netcoreapp2.1/multicast_app.AssemblyInfo.cs
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/bin/Debug/netcoreapp2.1/multicast_app.deps.json
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/bin/Debug/netcoreapp2.1/multicast_app.runtimeconfig.json
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/bin/Debug/netcoreapp2.1/multicast_app.runtimeconfig.dev.json
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/bin/Debug/netcoreapp2.1/multicast_app.dll
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/bin/Debug/netcoreapp2.1/multicast_app.pdb
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/obj/Debug/netcoreapp2.1/multicast_app.dll
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multicast_src/multicast_app/multicast_app/obj/Debug/netcoreapp2.1/multicast_app.pdb
