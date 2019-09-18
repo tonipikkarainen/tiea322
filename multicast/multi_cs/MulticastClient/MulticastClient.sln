@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastClient", "MulticastClient\MulticastClient.csproj", "{7F8D5095-0E88-4A7D-B448-8130205CFA8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastCliLuokalla", "MulticastCliLuokalla\MulticastCliLuokalla.csproj", "{C89ABDB8-3D89-44D9-BC29-463AD3303D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastV2", "MulticastV2\MulticastV2.csproj", "{9A82D549-40A3-4DBC-9A88-A8B6726A2C1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +17,13 @@ Global
 		{7F8D5095-0E88-4A7D-B448-8130205CFA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F8D5095-0E88-4A7D-B448-8130205CFA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F8D5095-0E88-4A7D-B448-8130205CFA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89ABDB8-3D89-44D9-BC29-463AD3303D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89ABDB8-3D89-44D9-BC29-463AD3303D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89ABDB8-3D89-44D9-BC29-463AD3303D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89ABDB8-3D89-44D9-BC29-463AD3303D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A82D549-40A3-4DBC-9A88-A8B6726A2C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A82D549-40A3-4DBC-9A88-A8B6726A2C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A82D549-40A3-4DBC-9A88-A8B6726A2C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A82D549-40A3-4DBC-9A88-A8B6726A2C1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

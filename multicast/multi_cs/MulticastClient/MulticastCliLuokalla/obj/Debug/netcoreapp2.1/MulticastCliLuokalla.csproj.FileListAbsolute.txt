@@ -1,0 +1,11 @@
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/bin/Debug/netcoreapp2.1/MulticastCliLuokalla.deps.json
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/bin/Debug/netcoreapp2.1/MulticastCliLuokalla.runtimeconfig.json
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/bin/Debug/netcoreapp2.1/MulticastCliLuokalla.runtimeconfig.dev.json
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/bin/Debug/netcoreapp2.1/MulticastCliLuokalla.dll
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/bin/Debug/netcoreapp2.1/MulticastCliLuokalla.pdb
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/obj/Debug/netcoreapp2.1/MulticastCliLuokalla.csproj.CoreCompileInputs.cache
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/obj/Debug/netcoreapp2.1/MulticastCliLuokalla.AssemblyInfoInputs.cache
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/obj/Debug/netcoreapp2.1/MulticastCliLuokalla.AssemblyInfo.cs
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/obj/Debug/netcoreapp2.1/MulticastCliLuokalla.dll
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/obj/Debug/netcoreapp2.1/MulticastCliLuokalla.pdb
+/Users/tonipikkarainen/master_degree/tiea322/multicast/multi_cs/MulticastClient/MulticastCliLuokalla/obj/Debug/netcoreapp2.1/MulticastCliLuokalla.csprojAssemblyReference.cache

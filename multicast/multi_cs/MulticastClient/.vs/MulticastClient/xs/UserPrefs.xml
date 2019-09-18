@@ -1,14 +1,19 @@
-﻿<Properties StartupConfiguration="{7F8D5095-0E88-4A7D-B448-8130205CFA8A}|Default">
+﻿<Properties StartupConfiguration="{9A82D549-40A3-4DBC-9A88-A8B6726A2C1C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MulticastCliLuokalla PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MulticastClient PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MulticastClient/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MulticastV2/Program.cs">
     <Files>
-      <File FileName="MulticastClient/Program.cs" Line="108" Column="1" />
+      <File FileName="MulticastV2/Program.cs" Line="10" Column="79" />
+      <File FileName="MulticastV2/UdpMultiClientV2.cs" Line="34" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MulticastClient" expanded="True">
-            <Node name="MulticastClient" expanded="True">
+            <Node name="MulticastClient" expanded="True" />
+            <Node name="MulticastCliLuokalla" expanded="True" />
+            <Node name="MulticastV2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +21,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MulticastV2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
